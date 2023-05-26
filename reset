@@ -1,0 +1,60 @@
+[33mcommit 9878c76bdc1cfc6bbc20b9b3310c8f3fb7eeebab[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Gowry Krishna <gowrykrishna39@gmail.com>
+Date:   Thu May 25 01:16:25 2023 +0530
+
+    modified hello file
+
+[33mcommit 0053679a1567e050d595b4aa2f3872881c0f89e0[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: dc16652 1f4f246
+Author: Gowry Krishna <gowrykrishna39@gmail.com>
+Date:   Thu May 25 01:13:11 2023 +0530
+
+    merging again happened
+
+[33mcommit dc1665232acdebe8ad68bc7e964daf5894d4a64b[m
+Author: Gowry Krishna <gowrykrishna39@gmail.com>
+Date:   Thu May 25 01:04:51 2023 +0530
+
+    hey modified
+
+[33mcommit 1f4f246867d8d46f239c3f962e1197216fad7ad7[m
+Author: Gowry Krishna <gowrykrishna39@gmail.com>
+Date:   Thu May 25 00:54:47 2023 +0530
+
+    hello file modified
+
+[33mcommit cb78da915f3eab6e9aac24b6e3f7a66a1dd39f5a[m
+Author: Gowry Krishna <gowrykrishna39@gmail.com>
+Date:   Wed May 24 22:41:59 2023 +0530
+
+    hey file modified
+
+[33mcommit f2b793a0296dff321ec5240369c0b5d47883376f[m
+Author: Gowry Krishna <gowrykrishna39@gmail.com>
+Date:   Wed May 24 21:28:03 2023 +0530
+
+    hey file edited
+
+[33mcommit 887bc2ee7bb402287f766d681004c971ca63e9fd[m
+Author: Gowry Krishna <gowrykrishna39@gmail.com>
+Date:   Wed May 24 16:35:48 2023 +0530
+
+    second file added
+
+[33mcommit 4998794495d4356e7f5584263df0dd230aa1e6f2[m
+Author: Gowry Krishna <gowrykrishna39@gmail.com>
+Date:   Wed May 24 15:48:05 2023 +0530
+
+    added some message
+
+[33mcommit 4f1cfa4056a6dcd531e3d7e8aa10ecfd1437f928[m
+Author: Gowry Krishna <gowrykrishna39@gmail.com>
+Date:   Wed May 24 15:19:11 2023 +0530
+
+    my first commit
+
+[33mcommit 170f829d80e186f14469e63b38371c6d17d28a49[m
+Author: Gowry Krishna <gowrykrishna39@gmail.com>
+Date:   Tue May 23 10:50:44 2023 +0530
+
+    Initial Commit
